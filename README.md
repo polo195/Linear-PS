@@ -2,19 +2,16 @@
 
 ---
 
-##  Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [System Design](#-system-design)
-- [Specifications](#-specifications)
-- [Safety Features](#-safety-features)
-- [Usage](#-usage)
-- [Future Improvements](#-future-improvements)
-- [Gallery](#-gallery)
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [System Design](#system-design)
+- [Safety Features](#safety-features)
+- [Gallery](#gallery)
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project implements a **dual power supply system** combining:
 
@@ -23,22 +20,22 @@ This project implements a **dual power supply system** combining:
 
 ---
 
-##  Features
+## Features
 
-- 🔹 Dual Output System
-  - 5V / 1.5A (Fixed)
-  - 0–30V / 3A (Adjustable)
+-  Dual Output System
+    * 5V / 1.5A (Fixed)
+   * 0–30V / 3A (Adjustable)
 
-- 🔹 Adjustable Voltage Regulation
-- 🔹 Current Limiting Circuit
-- 🔹 Voltage Surge Protection
-- 🔹 Active Cooling (Fan-based heat dissipation)
-- 🔹 Built-in Fuse Protection
-- 🔹 Voltage & Current Monitoring Panel
+-  Adjustable Voltage Regulation
+-  Current Limiting Circuit
+-  Voltage Surge Protection
+-  Active Cooling (Fan-based heat dissipation)
+-  Built-in Fuse Protection
+-  Voltage & Current Monitoring Panel
 
 ---
 
-## 🛠️ System Design
+## System Design
 
 The system is divided into three main modules:
 
@@ -58,7 +55,7 @@ The system is divided into three main modules:
 
 ##  Safety Features
 
-> ⚠️ Designed with protection in mind
+> ⚠️ <b> Designed with protection in mind<b>
 
 - Current limiting prevents damage during short circuits  
 - Surge protection stabilizes voltage spikes  
@@ -67,7 +64,7 @@ The system is divided into three main modules:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Digital display (LCD)
 - Microcontroller-based control
@@ -77,16 +74,24 @@ The system is divided into three main modules:
 ---
 
 ## Gallery
+###  Front Panel
 <p align="center">
-  <img src="IMAGES/BOARD UPSIDE.png" width="500"/>
+   <b>Front Panel of PCB</b>
+  <img src="IMAGES/BOARD UPSIDE.png" width="1000"/> <br>
 </p>
 
+###  PCB DOWNSIDE
 <p align="center">
-  <img src="IMAGES/BOARD DOWNSIDE.png" width="500"/>
+  <b>downside of PCB </b>
+  <img src="IMAGES/BOARD DOWNSIDE.png" width="1000"/><br>
 </p>
+ 
 
+###  Schematic
 <p align="center">
-  <img src="IMAGES/SCHEMATIC.png" width="500"/>
+  <b>Complete Circuit Schematic</b>
+  <img src="IMAGES/Schematic.jpg" width="1000"/><br>
+  <b>Complete Circuit Schematic</b>
 </p>
-more photos in the files
+*Download the schematic file to view the whole schematic image in better quality*
 
