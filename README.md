@@ -7,8 +7,9 @@
 - [Features](#features)
 - [System Design](#system-design)
 - [Safety Features](#safety-features)
+- [Future Improvements](#future-improvements)
 - [Gallery](#gallery)
-
+  
 ---
 
 ## Overview
