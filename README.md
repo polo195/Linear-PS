@@ -22,16 +22,16 @@ This project implements a **dual power supply system** combining:
 
 ## Features
 
-- 🔹 Dual Output System
-  - 5V / 1.5A (Fixed)
-  - 0–30V / 3A (Adjustable)
+-  Dual Output System
+    * 5V / 1.5A (Fixed)
+   * 0–30V / 3A (Adjustable)
 
-- 🔹 Adjustable Voltage Regulation
-- 🔹 Current Limiting Circuit
-- 🔹 Voltage Surge Protection
-- 🔹 Active Cooling (Fan-based heat dissipation)
-- 🔹 Built-in Fuse Protection
-- 🔹 Voltage & Current Monitoring Panel
+-  Adjustable Voltage Regulation
+-  Current Limiting Circuit
+-  Voltage Surge Protection
+-  Active Cooling (Fan-based heat dissipation)
+-  Built-in Fuse Protection
+-  Voltage & Current Monitoring Panel
 
 ---
 
@@ -55,7 +55,7 @@ The system is divided into three main modules:
 
 ##  Safety Features
 
-> ⚠️ Designed with protection in mind
+> ⚠️ <b> Designed with protection in mind<b>
 
 - Current limiting prevents damage during short circuits  
 - Surge protection stabilizes voltage spikes  
@@ -74,20 +74,20 @@ The system is divided into three main modules:
 ---
 
 ## Gallery
-### 🔹 Front Panel
+###  Front Panel
 <p align="center">
    <b>Front Panel of PCB</b>
   <img src="IMAGES/BOARD UPSIDE.png" width="1000"/> <br>
 </p>
 
-### 🔹 PCB DOWNSIDE
+###  PCB DOWNSIDE
 <p align="center">
   <b>downside of PCB </b>
   <img src="IMAGES/BOARD DOWNSIDE.png" width="1000"/><br>
 </p>
  
 
-### 🔹 Schematic
+###  Schematic
 <p align="center">
   <b>Complete Circuit Schematic</b>
   <img src="IMAGES/Schematic.jpg" width="1000"/><br>
